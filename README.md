@@ -54,3 +54,13 @@ Through this project, I gained practical exposure to:
 - Website structure and navigation
 - Digital product design
 - Project documentation
+## 📸 Website Screenshots
+
+### Home Page
+![EduQuest Home Page](Screenshot_2026_1.png)
+
+### Website Preview
+![EduQuest Website](Screenshot_2026_2.png)
+
+### Features
+![EduQuest Features](Screenshot_2026_3.png)
